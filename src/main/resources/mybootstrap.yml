@@ -1,0 +1,8 @@
+#数据源
+yonyong:
+  spring:
+    datasource:
+      driver: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/tyshawn_test
+      username: root
+      password: 123
