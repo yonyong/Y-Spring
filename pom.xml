@@ -19,7 +19,7 @@
         <fastjson.version>1.2.58</fastjson.version>
         <lombok.version>1.16.20</lombok.version>
         <commons.lang3.version>3.4</commons.lang3.version>
-        <commons.collections4.version>4.0</commons.collections4.version>
+        <commons.collections4.version>4.1</commons.collections4.version>
         <commons.dbcp2.version>2.0.1</commons.dbcp2.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <cglib.version>2.2.2</cglib.version>
